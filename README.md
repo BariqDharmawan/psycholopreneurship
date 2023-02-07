@@ -10,5 +10,9 @@
 6. Contact detail
 7. Career opening, submit career (field: [click here to see](https://www.dicksonsynergy.co.id/career/5))
 8. Sponsor & collaboration
+   ![Sponsor collaboration](https://github.com/BariqDharmawan/psycholopreneurship/blob/main/public/img/sponsor-collaborate.png?raw=true)
 
-![Sponsor collaboration](https://github.com/BariqDharmawan/psycholopreneurship/blob/main/public/img/sponsor-collaborate.png?raw=true)
+9. Produk
+10. Article (with this category)
+    - news
+    - information
