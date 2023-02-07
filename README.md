@@ -9,4 +9,4 @@
 5. Contact form
 6. Contact detail
 7. Career opening, submit career (field: [click here to see](https://www.dicksonsynergy.co.id/career/5))
-8. ![Sponsor collaboration](https://github.com/BariqDharmawan/psycholopreneurship/img/sponsor-collaboration.png)
+8. ![Sponsor collaboration](https://github.com/BariqDharmawan/psycholopreneurship/blob/main/public/img/sponsor-collaborate.png?raw=true)
