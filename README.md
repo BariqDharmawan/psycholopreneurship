@@ -1,25 +1,86 @@
 # Feature
 
 1. FAQ
-2. About
-3. Event
-    - upcoming
-    - past
-4. Our Team
-5. Contact form
-6. Contact detail
-7. Career opening, submit career ([example](https://www.dicksonsynergy.co.id/career/5))
-    - Full name
-    - Email
-    - Phone number
-    - City from
-    - Your Summary
-    - Resume upload
-8. Sponsor & collaboration
 
+    - id
+    - title
+    - description
+
+2. About
+
+    - slogan
+    - desc
+    - cover
+    - second img
+
+3. Event
+
+    - id
+    - name
+    - desc
+    - date
+
+4. Event Gallery
+
+    - photo
+    - event id
+
+5. Our Team
+
+    - id
+    - name
+    - role
+
+6. Team Socmed
+
+    - id
+    - platform
+    - username
+    - our team id
+
+7. Contact form
+
+    - id
+    - your name
+    - email
+    - country (default: Indonesia)
+    - message
+
+8. Our Contact
+
+    - id
+    - email
+    - telphone
+    - address
+
+9. Career opening
+
+    - id
+    - job title
+    - job desc
+    -
+
+10. Sponsor & collaboration
     ![Sponsor collaboration](https://github.com/BariqDharmawan/psycholopreneurship/blob/main/public/img/sponsor-collaborate.png?raw=true)
 
-9. Produk
-10. Article (with this category)
-    - news
-    - information
+    - id
+    - name
+    - img
+
+11. Products
+
+    - id
+    - name
+    - desc
+
+12. Product Gallery
+
+    - id
+    - img
+    - products id
+
+13. Article
+    - title
+    - content
+    - cover
+    - category (news, information)
